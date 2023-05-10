@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nirmal-sd
+- 👋 Hi, I’m Nirmalkumar Neelamegan
 - 👀 I’m interested in Software developing
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ionic and angular
